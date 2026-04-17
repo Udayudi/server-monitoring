@@ -1,0 +1,6 @@
+# Output files
+cpu.o
+disk.o
+main.o
+memory.o
+process.o
